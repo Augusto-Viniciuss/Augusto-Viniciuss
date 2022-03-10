@@ -1,4 +1,4 @@
-## Olá Mundo, Eu sou Augusto Vinicius e estudante de engenharia de computação :)
+## Olá Mundo, Eu sou Augusto Vinicius e estudante de engenharia de computação :wink:
 <div align="center">
   <p text-align="justify">
     :monocle_face: - Tenho interesse em Inteligencia Artificial, Robôtica e Internet das Coisas.<br>
