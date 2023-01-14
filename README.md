@@ -1,5 +1,6 @@
 <h1>Olá Mundo :space_invader:</h1>
 
+<h3>:dragon_face: Presidente da <a href="https://github.com/RAS-UFPB">IEEE RAS UFPB</a>.</h3>
 <h3>:microscope: - Pesquisador em robótica e controle.</h3>
 <h3>:computer: - Gosto de desenvolver prototipos de hardware e sistemas embarcados no tempo livre.</h3>
 <h3>:hammer: - Entusiasta em projetar PCBs.</h3>
